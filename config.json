@@ -1,0 +1,35 @@
+{
+    "baseurl": "https://girish3.github.io",
+
+    "theme": "lanyon-hugo",
+
+    "builddrafts": false,
+
+    "canonifyurls": false,
+
+    "permalinks": {
+        "post": ":year/:month/:day/:title/",
+        "fixed": ":title/"
+    },
+
+    "pygmentsuseclasses": true,
+
+    "params": {
+        "Title": "Girish",
+        "Tagline": "A Jekyll theme",
+        "Author": "Girish Budhwani",
+        "DateForm": "Jan 2 2006",
+        "Github": {
+            "Url": "",
+            "Head": "master"
+        }
+    },
+
+    "disqusShortname": "girishb",
+
+    "Paginate": 2,
+
+    "taxonomies": {
+        "tag": "tags"
+    }
+}
