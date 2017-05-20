@@ -1,31 +1,38 @@
 {
-    "title": "About",
+    "title": "About me",
     "sidebar": true,
     "weight": "1"
 }
 
+## Who am I?
+My name is Girish Budhwani, based out of Bangalore, India. I did my Bachelor's from IIT Jodhpur, currently working as a Software Developer at Microsoft.
+
+## Why SportyGeek? 
+Well, it best describes me. I was actually born as a sportsman who
+was forced to study (the story of half of Indians). Nevertheless, I am glad that
+I did my graduation in Computer Science. Now coding and sports help me
+get out of bed in the morning. I have played Tennis and Cricket at college level, 
+won a couple of medals. Currently playing Snooker and TT at office and 
+Football on the weekends. I also love travelling and have visited 6 countries.
+
+<!-- ## What made me start writing?
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  After a successful heist. </br> 
+<strong>Left Ear:</strong> So come on, gentlemen, shopping list. Who's doing what? Spare no dirty details. </br>
+<strong>John:</strong> Come on, guys. Take a lesson from an old man. Don't spend it. Invest. </br>
+<strong>Left Ear:</strong> In what?</br> 
+<strong>John:</strong> In gold.</br> 
+<strong>Left Ear:</strong> What are you getting, Rob?</br> 
+<strong>Rob:</strong> I'll get the Aston Martin Vanquish and I'm just thinking about naked girls in leather seats.</br> 
+<strong>Lyle:</strong> I'm gonna get a big stereo. Speakers so loud, they blow women's clothes off.</br> 
+<strong>Left Ear:</strong> Thirty-five million dollars, you can't get more creative than that, man? I'm going to Andalusia. The south of Spain. Right over there. Get me a big house, get me a library full of first editions, get a room for my shoes... What about you, Steve? </br>
+<strong>Steve:</strong> I liked what you said. I'll take one of each of yours. <br>
+- Italian Job movie
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am like Steve and to get all that I have to be successful and some successful guy 
+told me to write stuff. So here I am… -->
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<p class="message">
+Feel free to ask me anything in the comments.
+</p>
