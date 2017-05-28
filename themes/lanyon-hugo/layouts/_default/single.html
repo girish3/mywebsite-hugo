@@ -3,15 +3,11 @@
 <div class="post">
   <h1 class="post-title">{{ .Title }}</h1>
   <span class="post-date">{{ .Date.Format .Site.Params.DateForm }}</span>
-  <span class="post-date">
+  <!-- <span class="post-date">
   	{{ range .Params.tags }}
     	<span><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
   	{{ end }}
-  	</br>
-  	{{ range .Site.Taxonomies.tags.example }}
-  		<p><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></p>
-  	{{ end }}
-  </span>
+  </span> -->
   {{ .Content }}
 </div>
 
