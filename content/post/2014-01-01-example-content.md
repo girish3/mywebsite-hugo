@@ -5,6 +5,7 @@
       "Golang",
       "example"
     ],
+    "draft": true,
     "desc": "This is lanyon summary"
 }
 
