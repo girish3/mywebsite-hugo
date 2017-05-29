@@ -14,3 +14,7 @@
 {{ template "_internal/disqus.html" . }}
 
 {{ partial "default_foot.html" . }}
+
+{{ if not .Site.BuildDrafts }}
+	{{ template "_internal/google_analytics.html" . }}
+{{ end }}
